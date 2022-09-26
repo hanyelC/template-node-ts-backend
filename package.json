@@ -1,5 +1,5 @@
 {
-  "name": "sim-backend",
+  "name": "template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "prepare": "husky install"
   },
   "keywords": [],
-  "author": "",
+  "author": "hanyelC",
   "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
